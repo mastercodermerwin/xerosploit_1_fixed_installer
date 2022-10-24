@@ -26,7 +26,7 @@ Dependencies
 
 
 
-Instalation
+Installation
 =
 Dependencies will be automatically installed.
 
@@ -68,7 +68,7 @@ features
 - Javascript code injection
 - Download intercaption and replacement
 - Sniffing
-- Dns spoofing
+- DNS spoofing
 - Background audio reproduction
 - Images replacement
 - Drifnet
